@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Alys Young
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'PhD Candidate'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Conservation Science lab
+  url: "https://conservationscience.org.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ecological modelling, species distribution models, Indigenous Ecological Knowledge
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Ecological models
+- Indigenous Ecological Knowledge
+- Species distribution models
+- Remotely-sensed satellite imagery
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+ - course: PhD in Ecological modelling
+   institution: Centre for Integrative Ecology, Deakin University
+   year: 2021-current
+ - course: MSc in Ecology
+   institution: Quantitative and Applied Ecology lab (QAEco), University of Melbourne
+   year: 2018-2020
+ - course: BSc in Zoology
+   institution: University of Melbourne
+   year: 2018-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,19 +45,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aryo@deakin.edu.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/wowchemy
-- icon: instagram
+  link: https://twitter.com/EcoAlys
+- icon: github
   icon_pack: fab
-  link: https://instagram.com/geocushen
-
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-
+  link: https://github.com/AlysY
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9562-2253
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=_Gb6Y44AAAAJ&hl=en&oi=sra
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +69,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alys Young is a PhD canditate in the Centre for Integrative Ecology, Deakin University. Working collaborative with the [Tiwi Land Council](https://tiwilandcouncil.com/) and [Tiwi Resources](https://tiwiresources.com.au/), Alys is investigating the distribution and dynamics of species and ecosystems on the Tiwi Islands to inform conservation and land management decisions. Alys has a particular interesting in weaving contemporary science with Indigenous knowledge.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alys also works as a research assistant undertaking modelling projects and designing shiny app. Examples of the shiny apps include communicating research results for the [NESP Arid Zone Monitoring](https://aridzonemonitoring.org/) project, mapping and tracking [antimicrobial resistance](https://anti-microbe-res.shinyapps.io/hotspots/) and showing [urban threatened species](https://threatenedspeciesincities.org/). 

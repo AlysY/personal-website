@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Alys Young`s research.'
+    twitter: 'EcoAlys'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,12 +36,12 @@ header:
     show_logo: false
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: false
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false
@@ -51,7 +51,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Feb 18, 2022'
   time_format: '3:04 PM'
 
 # Site features
@@ -69,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/AlysY/personal-website'
     content_dir: content
     branch: main
   avatar:
@@ -102,4 +102,4 @@ extensions:
     # Enable if you use the Portfolio widget or Publication filter
     enable: true
   academicons:
-    enable: false
+    enable: true
