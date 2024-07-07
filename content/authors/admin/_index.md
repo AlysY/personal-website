@@ -16,25 +16,27 @@ status:
 organizations:
 - name: Conservation Science lab
   url: "https://conservationscience.org.au/"
+- name: Quantitative and Applied Ecology group (QAEco)
+  url: "https://qaeco.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ecological modelling, species distribution models, Indigenous Ecological Knowledge
+bio: I am a conservation scientist interested in applying ecological models for management outcomes
 
 interests:
-- Ecological models
-- Indigenous Ecological Knowledge
+- Ecological modelling
+- Indigenous Ecological Knowledge and two-way science
 - Species distribution models
 - Remotely-sensed satellite imagery
 
 education:
  courses:
- - course: PhD in Ecological modelling
-   institution: Centre for Integrative Ecology, Deakin University
+ - course: PhD in quantative ecology
+   institution: School of Life and Environmental Sciences, Deakin University
    year: 2021-current
- - course: MSc in Ecology
+ - course: MSc (Biosciences)
    institution: Quantitative and Applied Ecology lab (QAEco), University of Melbourne
    year: 2018-2020
- - course: BSc in Zoology
+ - course: BSc (Zoology major)
    institution: University of Melbourne
    year: 2018-2020
 
@@ -45,10 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:aryo@deakin.edu.au'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/EcoAlys
+  link: 'mailto:aryo@deakin.edu.au'
 - icon: github
   icon_pack: fab
   link: https://github.com/AlysY
@@ -69,6 +68,12 @@ social:
 #email: ""
 ---
 
-Alys Young is a PhD canditate in the Centre for Integrative Ecology, Deakin University. Working collaborative with the [Tiwi Land Council](https://tiwilandcouncil.com/) and [Tiwi Resources](https://tiwiresources.com.au/), Alys is investigating the distribution and dynamics of species and ecosystems on the Tiwi Islands to inform conservation and land management decisions. Alys has a particular interesting in weaving contemporary science with Indigenous knowledge.
+Hello! I am a PhD candidate in the School of Life and Environmental Science at Deakin University under the supervision of Prof [Emily Nicholson](https://findanexpert.unimelb.edu.au/profile/450577-emily-nicholson) and Prof [Brett Bryan](https://www.planet-a.earth/prof-brett-bryan).
 
-Alys also works as a research assistant undertaking modelling projects and designing shiny app. Examples of the shiny apps include communicating research results for the [NESP Arid Zone Monitoring](https://aridzonemonitoring.org/) project, mapping and tracking [antimicrobial resistance](https://anti-microbe-res.shinyapps.io/hotspots/) and showing [urban threatened species](https://threatenedspeciesincities.org/). 
+My PhD thesis examines how to bridge types of data and knowledges from global to local scales for conservation on Indigenous lands. I have worked collaboratively with the [Tiwi Land Council](https://tiwilandcouncil.com/), [Tiwi Resources](https://tiwiresources.com.au/) and Tiwi people to define, describe and map ecosystems on the Tiwi Islands which I wrote about [here](https://conservationscience.org.au/2023/05/10/weaving-knowledges-and-methods-for-ecosystem-science-on-the-tiwi-islands/). I have also been able to work on [a project](https://www.nespthreatenedspecies.edu.au/projects/arid-zone-monitoring-surveys-for-vertebrates-across-arid-and-semi-arid-zones) with data collected by Indigenous ranger groups as well as academics and NGOs to investigate the trends of animal populations over the desert regions of Australia. 
+
+Prior to my PhD, I undertook a Masters in ecology, focusing on identifying drought refuges for [the threatened Malleefowl](https://www.nespthreatenedspecies.edu.au/projects/recovering-malleefowl-with-adaptive-management-of-feral-predators) in semi-arid regions of Australia. I applied generlised linear mixed models with remotely sensed variables to a citizen science dataset with over 20 years of data to identify gaps in the current protected area network, which you can read about [here](https://doi.org/10.1111/acv.12763).  
+
+I have also worked as a research assistant undertaking modelling. At the National Centre for Coasts and Climate (University of Melbourne), we investigated the potential of native species to provide coastal protection through distribution models of 14 species and a [multi-criteria suitability analysis](https://doi.org/10.1016/j.rsma.2023.102857), which I then developed into [a decision support tool](https://livingshorelines.shinyapps.io/VicMap/). I also built Bayesian spatio-temporal models to investigate anti-microbial resistance patterns across Australia with CSIRO.  
+
+I am passionate about delivering scientific outputs to the wider community through data visualization. I developed a website to present results from the [NESP Arid Zone Monitoring](https://aridzonemonitoring.org/) project, undertook the mapping, tracking, visualisation and report writing regarding [anti-microbial resistance](https://www.youtube.com/watch?v=5N50byFx3ss), and built a website to display [urban threatened species](https://threatenedspeciesincities.org/). 
